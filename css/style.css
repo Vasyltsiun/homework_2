@@ -1,0 +1,29 @@
+@import url("reset.css");
+
+.ukrain {
+	color: blueviolet;
+}
+.text{
+	color: orange;
+}
+
+p {
+	color: grey;
+}
+
+div.text {
+	color: blue;
+}
+
+[class*="me"] {
+	color: blueviolet;
+}
+
+.list li {
+	color: green;
+}
+
+ul li {
+	color: red;
+}
+
